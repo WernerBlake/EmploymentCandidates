@@ -45,7 +45,7 @@ I suggest you read through the code and comments in this order:
         -covers the home page (mostly html code)
 
     6) id-1.php
-        -covers PHP code that is uses and SQL query to print
+        -covers PHP code that is used and SQL query to print
          a table onto a website.
 
     7) certificate.php
