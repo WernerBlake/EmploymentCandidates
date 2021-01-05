@@ -8,8 +8,6 @@ SECTIONS:
 
     4.  Understanding php for final
 
-    5. About the author
-
 <----------------------------------Section 1---------------------------------->
 
 The a few files that I uploaded have been heavily commented to explain every
@@ -335,10 +333,3 @@ steps:
             . "'" .  $_POST["qual_code"] . "'" . "," 
             . "'" .   $_POST["date_earned"] . "'" . ")";
 ?>
-
-<----------------------------------Section 5---------------------------------->
-
-The author is a FUCKING MORON who stays up until 4 am on the friday before his
-                finals typing up this and the file comments.
-
-                    God Damn that Ginger straight to hell.
